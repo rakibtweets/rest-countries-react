@@ -1,0 +1,11 @@
+.single-country {
+  background-color: lightcoral;
+  border: 2px solid cyan;
+  margin-top: 15px;
+  border-radius: 20px;
+}
+.country-img {
+  padding: 10px;
+  width: 250px;
+  height: 150px;
+}
